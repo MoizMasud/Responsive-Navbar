@@ -1,5 +1,6 @@
 # Responsive-Navbar
 Build using css properties as well as HTML and minor Vanilla JS
+
 Full screen navbar view:
 <img width="1098" alt="Screen Shot 2022-03-23 at 2 11 27 PM" src="https://user-images.githubusercontent.com/23690711/159767757-c5242f33-763a-4314-b5c6-c2a32f8b8351.png">
 
